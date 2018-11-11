@@ -4,16 +4,15 @@
 <body>
 there are three important files or folders:<br />
 1.forward_porpagation.py<br />
-        it process input data and calculate forward propagation<br />
+        <p>it process input data and calculate forward propagation<br /></p>
 2.mnist_train.py<br />
-        it train the classification model<br />
+        <p>it train the classification model<br /></p>
 3.mnist_validate.py<br />
-        it uses the model to predict the accuaracy<br />
+        <p>it uses the model to predict the accuaracy<br /></p>
 4.model<br />
-        it is the model that was trained<br />
+        <p>it is the model that was trained<br /></p>
 5.mnist_data:<br />
-        raw input datas<br />  
-</p>
+        <p>raw input datas<br /></p>
 </body>
 </html> 
 
