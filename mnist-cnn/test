@@ -1,0 +1,3 @@
+import numpy as np
+one = np.array(12)
+one.reshape([3,4])
