@@ -1,6 +1,5 @@
 
 <html>
-<title>HTML</title>
 <body>
 there are three important files or folders:<br />
 1.forward_porpagation.py<br />
