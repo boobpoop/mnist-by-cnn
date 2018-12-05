@@ -1,5 +1,5 @@
 # flow chart
-![dfsd](https://github.com/boobpoop/mnist-cnn/blob/master/mnist-cnn/mnist_image/mnist-cnn.png)
+![dfsd](https://github.com/boobpoop/mnist-cnn/blob/master/mnist-cnn/mnist_image/mnist-cnn1.png)
 # train table
 ![fsd](https://github.com/boobpoop/mnist-cnn/blob/master/mnist-cnn/mnist_image/train_table.png)
 # train graph
